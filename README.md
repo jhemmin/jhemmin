@@ -1,6 +1,6 @@
 ### Hello, world!
 
-- :school: Math, computer science and statistics
+- :school: Math, computer science and statistics (plus education theory)
 - :office_worker: AI, NLP, ASR
 
 #### :weight_lifting: Old gyms
