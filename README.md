@@ -1,9 +1,9 @@
 ### Hello, world!
 
 - :school: Math, computer science and statistics (plus education theory)
-- :office_worker: AI, NLP, ASR
+- :construction_worker: AI, NLP, ASR
 
-#### :weight_lifting: Old gyms
+#### Old gyms :weight_lifting:
 
 <div id="badges">
   <a href="https://projecteuler.net/">
@@ -17,7 +17,7 @@
   </a>
 </div>
 
-#### :hammer_and_wrench: Languages and Tools
+#### Languages and Tools :hammer_and_wrench:
 
 <!--- https://www.sitepoint.com/github-profile-readme/ -->
 <div>
