@@ -12,7 +12,7 @@
   <a href="https://www.hackerrank.com/jhemmin">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
-  <a href="https://rosalind.info/problems/locations/">
+  <a href="https://rosalind.info/users/jahrmoh/">
     <img src="https://img.shields.io/badge/Rosalind-fff?style=for-the-badge&logo=rosalind&logoColor=black" alt="Rosalind Badge"/>
   </a>
 </div>
